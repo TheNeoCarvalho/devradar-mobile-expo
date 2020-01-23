@@ -15,7 +15,7 @@ A funcionalidade é bem simples basta solicitar na url abaixo no local do userna
  
  ## 👨🏼‍💻 Desenvolvedor 
 
-- [Bruno Sousa](https://www.linkedin.com/in/francisco-manoel-carvalho/)
+- [Manoel Carvalho](https://www.linkedin.com/in/francisco-manoel-carvalho/)
 
 ## ✋🏻 Pré-requisitos
 
