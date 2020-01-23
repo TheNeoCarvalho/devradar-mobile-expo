@@ -4,7 +4,6 @@ Projeto desenvolvido durante a semana OmniStack 10 🚀, que é oferecida pela [
 
 DevRadar, uma aplicação que permite cadastrar Dev's apartir da API do github para encontrar os dados do dev e salvar em um banco da aplicação. Partindo disso a aplicação visa conectar dev's próximos a você que trabalham com as mesmas tecnologias.
 
-
 # Funcionamento da API do github
 
 A funcionalidade é bem simples basta solicitar na url abaixo no local do username o seu username que como resultado terar um JSON com os dados como podemos ver no no exemplo do [link](https://api.github.com/users/TheNeocarvalho).
@@ -25,24 +24,11 @@ A funcionalidade é bem simples basta solicitar na url abaixo no local do userna
 - [Expo](https://expo.io/)
 
 ## Passos para utilizar 
-1. Faça um clone desse repositório;
-2. Entre na pasta `cd devradar`;
-
-## Backend
-1. Entre na pasta `cd backend`;
-2. Rode `yarn` para instalar as dependências;
-3. Rode `yarn dev` para iniciar o servidor.
-
-## Frontend 
-1. Entre na pasta frontend
-2. Rode `yarn` para instalar as dependências;
-3. Rode `yarn start` para iniciar a aplicação;
 
 ## Mobile
 1. Entre na pasta `cd devradar-mobile-expo`
 2. Rode `yarn` para instalar as dependências;
 3. Rode `expo start` para iniciar a aplicação;
-
 
 ## ⚡️ Como contribuir
 - Faça um fork desse repositório;
@@ -51,7 +37,6 @@ A funcionalidade é bem simples basta solicitar na url abaixo no local do userna
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
 
 ## 📝 Licença
 
